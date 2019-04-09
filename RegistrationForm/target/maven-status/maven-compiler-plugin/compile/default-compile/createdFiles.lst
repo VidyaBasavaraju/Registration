@@ -1,0 +1,5 @@
+com\poignanat\project\RegistrationFormApplication.class
+com\poignanat\project\dto\RegistrationDTO.class
+com\poignanat\project\service\RegistrationService.class
+com\poignanat\project\controller\RegistrationController.class
+com\poignanat\project\repository\RegistrationRepository.class
