@@ -1,0 +1,6 @@
+com\poignanat\project\congig\MailSenderConfig.class
+com\poignanat\project\controller\MailSenderController.class
+com\poignanat\project\service\JavaMailSenderService.class
+com\poignanat\project\SendingEmailApplication.class
+com\poignanat\project\dto\MailRequestDTO.class
+com\poignanat\project\dto\MailResponseDTO.class
